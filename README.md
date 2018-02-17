@@ -23,7 +23,7 @@ ens.setResolver(namehash('nameYouWant.test'), publicResolver.address, (err,res)=
 8. Download the ENS Content Resolver (.test) Chrome Extension
 
 
-Shout out to Philip Prophet (github.com/monkybrain) for letting me use his source code
-for the ENS-IPFS resolution tools.
+Shout out to [Philip Prophet](github.com/monkybrain) for letting me use his source code
+for the ENS-IPFS resolution tools!
 https://github.com/monkybrain/ipfs-to-ens
 https://github.com/monkybrain/ens-content-resolver
