@@ -1,4 +1,4 @@
-Getting a .test name on Ropsten
+<h1>Getting a .test name on Ropsten<h1>
 
 1. Download MetaMask
 2. Copy the contents of ensutils-testnet-ethdenver and paste it into the web console
